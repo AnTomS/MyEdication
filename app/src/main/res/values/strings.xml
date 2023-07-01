@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My App</string>
+    <string name="button_text">push for new image</string>
+    <string name="younumber" />
+    <string name="enter_image_keiword">enter_image_keiword</string>
+    <string name="selected_item_description">Вы выбрали элемент %1$s</string>
+</resources>
