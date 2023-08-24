@@ -4,4 +4,5 @@
     <string name="younumber" />
     <string name="enter_image_keiword">enter_image_keiword</string>
     <string name="selected_item_description">Вы выбрали элемент %1$s</string>
+    <string name="save">save</string>
 </resources>
