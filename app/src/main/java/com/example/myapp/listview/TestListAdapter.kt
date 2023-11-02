@@ -1,4 +1,4 @@
-package com.example.myapp.ui.listview
+package com.example.myapp.listview
 
 import android.view.View
 import android.view.ViewGroup

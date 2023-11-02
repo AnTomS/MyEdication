@@ -1,4 +1,4 @@
-package com.example.myapp.ui.listview
+package com.example.myapp.listview
 
 import android.os.Bundle
 import android.widget.AdapterView

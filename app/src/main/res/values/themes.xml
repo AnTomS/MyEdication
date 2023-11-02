@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
+    <style name="AppTheme" parent="Theme.AppCompat.Light">
+        <!-- Дополнительные атрибуты темы -->
+    </style>
+
+
+
     <style name="Theme.Material3.DayNight.NoActionBar">
-        <item name="android:theme">@style/Theme.Material3.DayNight.NoActionBar</item>
+        <item name="android:theme">@style/Theme.Material3.DayNight</item>
+    </style>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.Material3.DayNight.NoActionBar" parent="Theme.Material3.DayNight">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
     </style>
 </resources>
